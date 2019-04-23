@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.unitedthinkers.com" />
+          <option name="name" value="UT" />
+          <option name="login" value="vdanovskyi" />
+          <password>dffcdfeedfdfdfc4dfc3dfdedfcfdfcedf9bdf92</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

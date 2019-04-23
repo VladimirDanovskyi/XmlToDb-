@@ -1,0 +1,5 @@
+<application>
+  <component name="sonarConsoleSettings">
+    <option name="showSonarConsoleOnAnalysis" value="false" />
+  </component>
+</application>

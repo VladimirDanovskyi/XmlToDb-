@@ -1,0 +1,40 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>zul</mask>
+      <mask>zl</mask>
+      <mask>l</mask>
+      <mask>*l</mask>
+      <mask>*javal</mask>
+      <mask>*mvevl</mask>
+      <mask>*mvev</mask>
+      <mask>*jac</mask>
+      <mask>*M</mask>
+      <mask>*MV</mask>
+      <mask>*MVE</mask>
+      <mask>*MVEL</mask>
+      <mask>*mvr</mask>
+      <mask>*zy</mask>
+      <mask>*sql</mask>
+      <mask>*sq</mask>
+      <mask>*s</mask>
+      <mask>*java</mask>
+      <mask>*jav</mask>
+      <mask>*ja</mask>
+      <mask>*j</mask>
+      <mask>*mve</mask>
+      <mask>*m</mask>
+      <mask>*zuд</mask>
+      <mask>*zu</mask>
+      <mask>*zul</mask>
+      <mask>*z</mask>
+      <mask>*</mask>
+      <mask>*mv</mask>
+      <mask>*mvel</mask>
+    </recentFileMasks>
+  </component>
+</application>
