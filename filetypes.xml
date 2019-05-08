@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="saleDepositCH.zul" type="PLAIN_TEXT" />
       <mapping pattern="newFile" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="pattern" type="PLAIN_TEXT" />
       <mapping ext="jasper" type="PLAIN_TEXT" />
     </extensionMap>
